@@ -1,0 +1,8 @@
+{
+  "name": "jsBigger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SayHappy/jsBigger.git",
+  "author": "郝栩彬 <haoxubin@bytedance.com>",
+  "license": "MIT"
+}
